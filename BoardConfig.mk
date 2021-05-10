@@ -49,3 +49,5 @@ BOARD_KERNEL_CMDLINE += androidboot.dtbo_idx=12
 
 #BOARD_PREBUILT_DTBOIMAGE := device/google/taimen-kernel/dtbo.img
 BOARD_DTBOIMG_PARTITION_SIZE := 8388608
+
+TARGET_KERNEL_CONFIG := taimen_defconfig
