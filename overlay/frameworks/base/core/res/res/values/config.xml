@@ -299,3 +299,10 @@
         <item>12</item>
     </integer-array>
   </resources>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- Define that we use a higher screen ratio (18:9) than standard (16:9) -->
+    <bool name="config_haveHigherAspectRatioScreen">true</bool>
+
+</resources>
