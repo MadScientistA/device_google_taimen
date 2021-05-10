@@ -47,5 +47,5 @@ TARGET_RECOVERY_UI_LIB := \
 # for all future devices.
 BOARD_KERNEL_CMDLINE += androidboot.dtbo_idx=12
 
-BOARD_PREBUILT_DTBOIMAGE := device/google/taimen-kernel/dtbo.img
+#BOARD_PREBUILT_DTBOIMAGE := device/google/taimen-kernel/dtbo.img
 BOARD_DTBOIMG_PARTITION_SIZE := 8388608
